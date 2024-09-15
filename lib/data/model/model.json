@@ -1,0 +1,42 @@
+{
+    "user" : {
+        "biodata" : {
+			"namalengkap": "",
+			"tanggallahir": "",
+			"jeniskelamin": "",
+			"alamatemail": "",
+			"nohp": "",
+			"pendidikan": "",
+			"statusperkawinan": ""
+		},
+ 		"alamatpribadi" : {
+			"fotoktp": "",
+			"nik": "",
+			"alamatktp": "",
+			"provinsiktp": "",
+			"kotaktp": "",
+			"kelurahanktp": "",
+			"kecamatanktp": "",
+			"kodeposktp": "",
+			"alamatdomisili": "",
+			"provinsidomisili": "",
+			"kotadomisili": "",
+			"kelurahandomisili": "",
+			"kecamatandomisili": "",
+			"kodeposdomisili": ""
+			},
+		"informasiperusahaan" : {
+			"namausaha": "",
+			"alamatusaha": "",
+			"jabatan": "",
+			"lamabekerja": "",
+			"sumberpenghasilan": "",
+			"pendapatankotor": "",
+			"namabank": "",
+			"cabangbank": "",
+			"nomorrekening": "",
+			"namapemilik": ""
+		}
+	
+	}
+}

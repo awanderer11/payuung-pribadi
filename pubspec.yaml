@@ -1,0 +1,36 @@
+name: payuung_pribadi
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_svg: ^2.0.10+1
+  intl: ^0.19.0
+  horizontal_stepper_flutter: ^1.0.3
+  syncfusion_flutter_datepicker: ^26.1.42
+  image_picker: ^1.1.0
+  flutter_datetime_picker_plus: ^2.2.0
+  dropdown_button2: ^2.3.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
